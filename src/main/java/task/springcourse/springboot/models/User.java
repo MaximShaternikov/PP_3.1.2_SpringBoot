@@ -1,4 +1,4 @@
-package task.springcourse.springboot.model;
+package task.springcourse.springboot.models;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Min;
